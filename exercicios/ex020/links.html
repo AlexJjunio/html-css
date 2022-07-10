@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        body
+        {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a
+        {
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:visited
+        {
+            color: darkred;
+        }
+        a:hover
+        {
+            text-decoration: underline;
+            color: black;
+        }
+        .especial::after
+        {
+            content: '[link]';
+            font-weight: lighter;
+        }
+        .especial::before
+        {
+            content: '[link]';
+            font-weight: lighter;
+        }
+        .especial
+        {
+            width: 200px;
+            background-color: rgba(128, 128, 128, 0.527);
+        }
+        a:active
+        {
+            color: aquamarine;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <a href="https://pt-br.facebook.com/">
+            <li class="especial">Facebook</li>
+        </a>
+        <a href="https://www.instagram.com/">
+            <li class="especial">Instagram</li>
+        </a>
+        <a href="https://www.youtube.com/">
+            <li>Youtube</li>
+        </a>
+    </ul>
+    
+</body>
+</html>
