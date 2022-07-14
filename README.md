@@ -72,3 +72,5 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex023/tabela001.html"> Executar o exercício 023
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex023/tabela002.html"> Executar o exercício 023b
+
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex023/tabela003.html"> Executar o exercício 023c
