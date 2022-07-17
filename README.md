@@ -81,10 +81,10 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe001.html"> Executar o exercício 024
 
-<a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe002.html"> Executar o exercício 025b
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe002.html"> Executar o exercício 024b
 
-<a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe003.html"> Executar o exercício 025c
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe003.html"> Executar o exercício 024c
 
-<a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe004.html"> Executar o exercício 025d
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe004.html"> Executar o exercício 024d
 
-<a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe005.html"> Executar o exercício 025e
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe005.html"> Executar o exercício 024e
