@@ -1,0 +1,49 @@
+<html lang="br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <style>
+        *{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            background-image: linear-gradient(to right, #f7d69e91, transparent);
+        }
+
+        form{
+            text-align: center;
+            margin: auto;
+            background-color: #F7D69E;
+            height: 250px;
+            width: 400px;
+            padding: 20px;
+            border: rgba(0, 0, 0, 0.36) solid 1px;
+            box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.283);
+        }
+
+        form p {
+            text-align: left;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 50px;
+            color: #755928;
+            margin-bottom: 50px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Meu primeiro formulário</h1>
+    <form method="post" autocomplete="off" action="cadastro.html">
+        <p><label for="inome">Nome:</label> <input type="text" name="nome" id="inome"></p>
+        <p><label for="isobrenome">Sobrenome:</label> <input type="text" name="sobrenome" id="isobrenome"></p>
+        <input type="submit" value="ENVIAR">
+    </form>
+</body>
+</html>
+
