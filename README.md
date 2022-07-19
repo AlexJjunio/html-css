@@ -69,7 +69,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex021/caixa03.html"> Executar o exercício 021c
 
-<hr> Tabelas    
+<hr> <p>Tabelas</p>  
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex023/tabela001.html"> Executar o exercício 023
 
@@ -81,7 +81,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex023/tabela005.html"> Executar o exercício 023e
   
-<hr> iFrame  
+<hr> <p>iFrame</p> 
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe001.html"> Executar o exercício 024
 
@@ -95,7 +95,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe006.html"> Executar o exercício 024f
 
-<hr> Formulários
+<hr> <p>Formulários</p>
   
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex025/form001.html"> Executar o exercício 025
 
