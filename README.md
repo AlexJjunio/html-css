@@ -4,7 +4,6 @@ Curso de HTML5 e CSS3 do CursoemVideo
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex001/index.html"> Executar o exercício 001
-<hr>
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex002/index.html"> Executar o exercício 002
 
@@ -70,6 +69,8 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex021/caixa03.html"> Executar o exercício 021c
 
+<hr> Tabelas    
+
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex023/tabela001.html"> Executar o exercício 023
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex023/tabela002.html"> Executar o exercício 023b
@@ -79,6 +80,8 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex023/tabela004.html"> Executar o exercício 023d
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex023/tabela005.html"> Executar o exercício 023e
+  
+<hr> iFrame  
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe001.html"> Executar o exercício 024
 
@@ -92,6 +95,8 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex024/iframe006.html"> Executar o exercício 024f
 
+<hr> Formulários
+  
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex025/form001.html"> Executar o exercício 025
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex025/form002.html"> Executar o exercício 025b
