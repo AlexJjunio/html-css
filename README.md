@@ -48,26 +48,32 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex017/cor.html"> Executar o exercício 017
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex0176/index.html"> Executar o exercício 017b
+  
+<hr><p>Fontes</p>  
 
-<a href = "https://alexjjunio.github.io/html-css/exercicios/ex018/Fonte01.html"> Executar o exercício 018
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex018/Fonte01.html"> Executar o exercício 018  
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex019/fonte01html"> Executar o exercício 019
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex019fonte02.html"> Executar o exercício 019b
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex019fonte03.html"> Executar o exercício 019c
-
+  
+<hr><p>Hover</p>
+  
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex020/hover.html"> Executar o exercício 020
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex020/index.html"> Executar o exercício 020b
 
-<a href = "https://alexjjunio.github.io/html-css/exercicios/ex020/links.html"> Executar o exercício 020c
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex020/links.html"> Executar o exercício 020c </a>
+  
+<hr><p>Caixas</p>
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex021/caixa01.html"> Executar o exercício 021
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex021/caixa02.html"> Executar o exercício 021b
 
-<a href = "https://alexjjunio.github.io/html-css/exercicios/ex021/caixa03.html"> Executar o exercício 021c
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex021/caixa03.html"> Executar o exercício 021c </a>
 
 <hr> <p>Tabelas</p>  
 
