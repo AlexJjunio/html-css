@@ -47,7 +47,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex017/cor.html"> Executar o exercício 017
 
-<a href = "https://alexjjunio.github.io/html-css/exercicios/ex0176/index.html"> Executar o exercício 017b
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex0176/index.html"> Executar o exercício 017b </a>
   
 <hr><p>Fontes</p>  
 
@@ -57,7 +57,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex019fonte02.html"> Executar o exercício 019b
 
-<a href = "https://alexjjunio.github.io/html-css/exercicios/ex019fonte03.html"> Executar o exercício 019c
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex019fonte03.html"> Executar o exercício 019c </a>
   
 <hr><p>Hover</p>
   
