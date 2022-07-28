@@ -111,5 +111,9 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href = "https://alexjjunio.github.io/html-css/exercicios/ex025/form004.html"> Executar o exercício 025d
 
-<a href = "https://alexjjunio.github.io/html-css/exercicios/ex025/form005.html"> Executar o exercício 025e </a>
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex025/form005.html"> Executar o exercício 025e
+
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex025/form006.html"> Executar o exercício 025f
+
+<a href = "https://alexjjunio.github.io/html-css/exercicios/ex025/form007.html"> Executar o exercício 025g </a>
 
