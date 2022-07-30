@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 *{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: monospace;
 }
 
 body {
@@ -21,6 +21,7 @@ form{
 
 form p {
     text-align: left;
+    font-size: 14pt;
 }
 
 h1 {
