@@ -13,7 +13,7 @@
   
   <header>
     <h1>Meu site</h1>
-    <span onresize="tamanhoMenu" onclick="clickMenu()" id="burguer" class="material-symbols-outlined">menu</span>
+    <span onclick="clickMenu()" id="burguer" class="material-symbols-outlined">menu</span>
     <menu id="itens">
       <ul>
         <li><a href="#">Opção 1</a></li>
@@ -52,12 +52,6 @@
       } else {
         itens.style.display = 'block'
       } 
-    }
-
-    function tamanhoMenu (){
-      if (window.innerWidth < 768) {
-        menu.style.display = 'none'
-      }
     }
 
     function mudouTamanho() {
